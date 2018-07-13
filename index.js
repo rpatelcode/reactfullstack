@@ -7,5 +7,3 @@ app.get('*', (req, res) => {
 
   const PORT = process.env.PORT || 5000;
   app.listen(PORT);
-
-//  https://whispering-meadow-63984.herokuapp.com/ | https://git.heroku.com/whispering-meadow-63984.git
