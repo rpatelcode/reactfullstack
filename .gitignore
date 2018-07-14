@@ -1,7 +1,5 @@
 node_modules
 config
-dev.js
 package-lock.json
-prod.js
 
 
